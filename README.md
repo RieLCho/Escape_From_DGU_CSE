@@ -16,9 +16,9 @@ $ git clone https://github.com/CSID-DGU/2022-1-OSSP2-turning-7.git
 3. 프로젝트 폴더로 이동
 $ cd C:\2022-1-OSSP2-turning-7
 4. 패키지 설치
-$ npm install
+$ yarn
 5. 앱 실행
-$ npm start
+$ yarn start
 6. 서버 실행
 $ node server.js
 ```
